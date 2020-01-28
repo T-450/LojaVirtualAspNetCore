@@ -1,0 +1,11 @@
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\edwar\source\AppComplexa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
