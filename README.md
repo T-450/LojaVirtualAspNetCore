@@ -1,3 +1,5 @@
+### "Knowing is not enough; we must apply. Willing is not enough; we must do" - Goethe
+
 # LojaVirtualAspNetCore
 Repositorio do projeto final do curso do Eduardo Pires (https://desenvolvedor.io/);
 
